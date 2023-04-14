@@ -14,7 +14,7 @@ public class Bank {
     }
 
     public static void main(String[] args) {
-        int deliveryDistance = 94;
+        int deliveryDistance = 95;
         int deliveryDays = Days(deliveryDistance);
 
         if (deliveryDays >= 0) {
