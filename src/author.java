@@ -8,7 +8,7 @@ class Author {
     }
 
     public String getFirstName() {
-        return firstName;
+        return firstName ;
     }
 
     public String getLastName() {
