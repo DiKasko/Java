@@ -6,7 +6,7 @@ public class PhoneBook {
 
     public PhoneBook() {
         this.contacts = new Contact[10];
-        // Задали массиву Contact длину — 10
+        // Задали массиву Contact длину —  10
     }
 
     // Реализуем метод addContact (создать контакт):

@@ -10,7 +10,7 @@ public class Main {
         phoneBook.printAllContacts();
         // Распечатываем все контакты
         System.out.println("Размер тел. книги: " + phoneBook.getCurrentSize());
-        // Распечатываем размер телефонной книги
+        // Распечатываем размер телефонной  книги
         System.out.println();
 
         phoneBook.findContact("Иванов Иван4");
