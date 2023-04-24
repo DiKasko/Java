@@ -5,7 +5,7 @@ public class Hogwards {
         this.magic = magic;
         this.transgression = transgression;
     }
-    public int getMagic() {
+    public int getMagic()  {
         return magic;
     }
     public int getTransgression() {

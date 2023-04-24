@@ -9,7 +9,7 @@ public class Puffendui extends Hogwards {
         this.honest = honest;
     }
     public void printInfo () {
-        super.printInfo();
+        super.printInfo( );
         System.out.println(hardworking + " " + loyal + " " + honest);
     }
     public void printTotal () {

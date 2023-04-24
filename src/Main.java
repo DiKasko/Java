@@ -11,7 +11,7 @@ public class Main {
         Slizerin SalazarSlytherin = new Slizerin(88, 34, 32, 45, 46, 29, 70);
 
 
-        System.out.print("HarryPotter ");
+        System.out.print("HarryPotter ") ;
         HarryPotter.printInfo();
         HarryPotter.printTotal();
         System.out.print("HermioneJeanGranger ");
